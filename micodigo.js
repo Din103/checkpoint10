@@ -271,7 +271,7 @@ if (seleccionBebidaPrincipal  === null) {
 
 if (!(seleccionBebidaPrincipal  in bebidasDesayuno)) {
     alert("Selección de bebida principal incorrecta. Por favor, seleccione una opción válida.");
-    desyuno();
+    desayuno();
     return;
 }
 
