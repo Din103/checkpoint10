@@ -212,11 +212,7 @@ if (acompanamientoSeleccionadoAlmuerzo1.nombre !== "Nada") {
             var mensajeAcompanamientosSeleccionados = mensajeAcompanamientoAlmuerzo1 + "\n" + mensajeAcompanamientoAlmuerzo2 + "\n" + comentarioAcompanamientos;
 
             alert(mensajeAcompanamientosSeleccionados);
-
-
-
-    }
-    
+    }   
 
 var seleccionAlmuerzo = mensajePlatoPrincipal + "\n" + mensajeAcompanamientoAlmuerzo1 + "\n" + (mensajeAcompanamientoAlmuerzo2 ? mensajeAcompanamientoAlmuerzo2 + "\n" : "") + "El precio total es: " + precioTotalAlmuerzo.toFixed(2) + "€";
 
