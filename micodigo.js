@@ -316,7 +316,7 @@ if (seleccionBebidaPrincipal  >= "1" && seleccionBebidaPrincipal  <= "5") {
                 break;
 
             default:
-                alert("Selección de punto de cocción no valida. Repita por favor.");
+                alert("Selección de edelcuración no valida. Repita por favor.");
                 break;
         }
     }
